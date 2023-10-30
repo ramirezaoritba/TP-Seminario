@@ -1,0 +1,521 @@
+﻿Anio,Mes,Cargo,Descripción,Sueldo
+2021,1,1110,Gerente General,378.018
+2021,1,1120,Subgerente General,332.574
+2021,1,1130,Gerente Departamental,305.203
+2021,1,1210,Gerente Regional,305.203
+2021,1,1140,Subgerente Departamental,265.956
+2021,1,1220,Gerente Zonal,265.956
+2021,1,1224,Auditor Regional,265.956
+2021,1,1311,Gerente Especial,265.956
+2021,1,1150,Jefe Principal de Departamento,209.666
+2021,1,1225,Auditor Regional,209.666
+2021,1,1312,Gerente de 1ª,209.666
+2021,1,1160,Jefe de Departamento,167.320
+2021,1,1313,Gerente de 2ª,167.320
+2021,1,1320,Subgerente,167.320
+2021,1,1331,Jefe de Contaduría Especial,167.320
+2021,1,1170,2º Jefe de Departamento,144.597
+2021,1,1314,Gerente de 3ª,144.597
+2021,1,1332,Jefe de Contaduría de 1ª,144.597
+2021,1,1333,Jefe de Contaduría de 2ª,144.597
+2021,1,1340,Subjefe de Contaduría,144.597
+2021,1,1351,Tesorero Especial,144.597
+2021,1,1180,Jefe de División,129.105
+2021,1,1352,Tesorero de 1ª,129.105
+2021,1,1353,Tesorero de 2ª,129.105
+2021,1,1354,Tesorero de 1ª,129.105
+2021,1,1355,Tesorero de 2ª,129.105
+2021,1,1360,Subtesorero,129.105
+2021,1,1371,Jefe de Area I,129.105
+2021,1,1190,2º Jefe de División,111.970
+2021,1,1372,Jefe de Area II,111.970
+2021,1,1711,Jefe de Sección A,111.970
+2021,1,1712,Jefe de Sección B,88.142
+2021,1,1721,Ayudante de Firma A,111.970
+2021,1,1722,Ayudante de Firma B,88.142
+2021,1,1731,Auxiliar A,111.970
+2021,1,1732,Auxiliar B,88.142
+2021,1,1733,Auxiliar C,81.687
+2021,1,1735,Auxiliar D,69.716
+2021,1,1737,Auxiliar E,60.328
+2021,1,3411,Jefe de Servicios I,144.597
+2021,1,3412,Jefe de Servicios II,129.105
+2021,1,3413,Jefe de Servicios III,108.448
+2021,1,3711,Ordenanza A,100.702
+2021,1,3712,Ordenanza B,91.225
+2021,1,3713,Ordenanza C,81.687
+2021,1,3715,Ordenanza D,69.716
+2021,1,3717,Ordenanza E,60.328
+2021,1,2411,Jefe de Maestranza I,144.597
+2021,1,2412,Jefe de Maestranza II,139.433
+2021,1,2413,Jefe de Maestranza III,123.940
+2021,1,2711,Operario A,107.931
+2021,1,2712,Operario B,91.225
+2021,1,2713,Operario C,81.687
+2021,1,2715,Operario D,69.716
+2021,1,2717,Operario E,60.328
+2021,1,6410,Jefe Especializado,144.597
+2021,1,6420,2º Jefe Especializado,136.851
+2021,1,6711,Especializado I,118.776
+2021,1,6712,Especializado II,88.142
+2021,1,6713,Especializado III,69.716
+2021,1,4410,Profesional Jefe,258.209
+2021,1,4420,Profesional 2º Jefe,247.881
+2021,1,4430,Supervisor,237.553
+2021,1,4511,Profesional I,209.666
+2021,1,4512,Profesional II,167.320
+2021,1,4513,Profesional III,149.761
+2021,1,4611,Profesional RR. LL. Cat. I,209.666
+2021,1,4612,Profesional RR. LL. Cat. II,167.320
+2021,1,4613,Profesional RR. LL. Cat. III,149.761
+2021,1,4614,Profesional RR. LL. Cat. IV,138.493
+2021,1,4615,Profesional RR. LL. Cat. V,129.105
+2021,1,4616,Profesional RR. LL. Cat. VI,103.284
+2021,1,5410,Jefe Técnico,167.320
+2021,1,5420,2º Jefe Técnico,157.508
+2021,1,5430,Supervisor,152.576
+2021,1,5711,Técnico I,152.576
+2021,1,5712,Técnico II,129.105
+2021,1,5713,Técnico III,111.970
+2021,1,5714,Técnico IV,88.142
+2021,1,1141,Jefe Principal de Sistemas,265.956
+2021,1,1151,Jefe de Sistemas,209.666
+2021,1,1152,Analista de Sistemas de 1ª,209.666
+2021,1,1154,Analista Operativo de 1ª,209.666
+2021,1,1142,Analista Procesamiento de 1ª,209.666
+2021,1,1157,Supervisor Turno de Producción,209.666
+2021,1,1156,Supervisor de Sistemas,209.666
+2021,1,1158,Supervisor de Soporte de Producción,209.666
+2021,1,1153,Analista de Sistemas de 2ª,209.666
+2021,1,1143,Analista Procesamiento de 2ª,209.666
+2021,1,1159,Analista Operativo de 2ª,209.666
+2021,1,1165,Analista de Sistemas de 3ª,167.320
+2021,1,1144,Analista Procesamiento de 3ª,167.320
+2021,1,1166,Analista Operativo de 3ª,167.320
+2021,1,1161,Programador de 1ra.,167.320
+2021,1,1162,Operador Mayor,167.320
+2021,1,1164,Supervisor de Diseño,167.320
+2021,1,1167,Analista Implementador de 1ra.,167.320
+2021,1,1163,Analista de Procedimiento de 1ra.,167.320
+2021,1,1168,Analista de Comunicaciones y Tecnológico de 1ra.,167.320
+2021,1,1185,Analista Implementador de 2ª,144.597
+2021,1,1177,Supervisor de Turno de Control,144.597
+2021,1,1176,Supervisor de Turno de Planificación,144.597
+2021,1,1171,Programador de 2ª,144.597
+2021,1,1172,Analista de Procedimiento de 2ª,144.597
+2021,1,1183,Analista de Comunicaciones y Tecnológico de 2ª,144.597
+2021,1,1179,Operador de 1ra.,144.597
+2021,1,1174,Programador de 3ª,144.597
+2021,1,1181,Operador de 2ª,144.597
+2021,1,1178,Asistente de 1ra.,144.597
+2021,1,1184,Analista de Comunicaciones y Tecnológico de 3ª,144.597
+2021,1,1175,Analista Implementador de 3ª,144.597
+2021,1,1173,Analista de Procedimientos de 3ª,144.597
+2021,1,1182,Asistente de Comunicaciones y Tecnológico de 1ra.,144.597
+2021,1,1186,Asistente de Comunicaciones y Tecnológico de 2ª,129.105
+2021,1,1191,Operador de 3ª,129.105
+2021,1,1188,Asistente de 2ª,129.105
+2021,1,1192,Asistente de 3ª,129.105
+2021,1,1187,Asistente de Comunicaciones y Tecnológico de 3ª,129.105
+2021,1,1189,Registrador de 1ra.,129.105
+2021,1,1194,Registrador de 2ª,111.970
+2021,1,1195,Registrador de 3ª,111.970
+2021,1,1193,Controlador de 1ra.,111.970
+2021,1,1196,Analista de Procedimientos sin Categoría,88.142
+2021,1,1713,Controlador de 2ª,88.142
+2021,1,1197,J Secc Anal Implem. S/cat,88.142
+2021,1,1198,J Secc Programador Sc,88.142
+2021,1,1723,Asistente sin Categoría,88.142
+2021,1,1724,Operador sin Categoría,88.142
+2021,1,1736,Aux. D Registrador SC,69.716
+2021,1,1738,Controlador sin Categoría,60.328
+2021,7,1110,Gerente General,437.349
+2021,7,1120,Subgerente General,384.771
+2021,7,1130,Gerente Departamental,353.105
+2021,7,1210,Gerente Regional,353.105
+2021,7,1140,Subgerente Departamental,307.697
+2021,7,1220,Gerente Zonal,307.697
+2021,7,1224,Auditor Regional,307.697
+2021,7,1311,Gerente Especial,307.697
+2021,7,1150,Jefe Principal de Departamento,242.573
+2021,7,1225,Auditor Regional,242.573
+2021,7,1312,Gerente de 1ª,242.573
+2021,7,1160,Jefe de Departamento,193.581
+2021,7,1313,Gerente de 2ª,193.581
+2021,7,1320,Subgerente,193.581
+2021,7,1331,Jefe de Contaduría Especial,193.581
+2021,7,1170,2º Jefe de Departamento,167.292
+2021,7,1314,Gerente de 3ª,167.292
+2021,7,1332,Jefe de Contaduría de 1ª,167.292
+2021,7,1333,Jefe de Contaduría de 2ª,167.292
+2021,7,1340,Subjefe de Contaduría,167.292
+2021,7,1351,Tesorero Especial,167.292
+2021,7,1180,Jefe de División,149.368
+2021,7,1352,Tesorero de 1ª,149.368
+2021,7,1353,Tesorero de 2ª,149.368
+2021,7,1354,Tesorero de 1ª,149.368
+2021,7,1355,Tesorero de 2ª,149.368
+2021,7,1360,Subtesorero,149.368
+2021,7,1371,Jefe de Area I,149.368
+2021,7,1190,2º Jefe de División,129.544
+2021,7,1372,Jefe de Area II,129.544
+2021,7,1711,Jefe de Sección A,129.544
+2021,7,1712,Jefe de Sección B,101.976
+2021,7,1721,Ayudante de Firma A,129.544
+2021,7,1722,Ayudante de Firma B,101.976
+2021,7,1731,Auxiliar A,129.544
+2021,7,1732,Auxiliar B,101.976
+2021,7,1733,Auxiliar C,94.508
+2021,7,1735,Auxiliar D,80.659
+2021,7,1737,Auxiliar E,69.797
+2021,7,3411,Jefe de Servicios I,167.292
+2021,7,3412,Jefe de Servicios II,149.368
+2021,7,3413,Jefe de Servicios III,125.469
+2021,7,3711,Ordenanza A,116.507
+2021,7,3712,Ordenanza B,105.543
+2021,7,3713,Ordenanza C,94.508
+2021,7,3715,Ordenanza D,80.659
+2021,7,3717,Ordenanza E,69.797
+2021,7,2412,Jefe de Maestranza II ( Chofer ),161.317
+2021,7,2413,Jefe de Maestranza III ( Chofer ),143.393
+2021,7,2711,Operario A ( Chofer ),124.871
+2021,7,2712,Operario B ( Chofer ),105.543
+2021,7,2713,Operario C ( Chofer ),94.508
+2021,7,2715,Operario D ( Chofer ),80.659
+2021,7,2717,Operario E ( Chofer ),69.797
+2021,7,6410,Jefe Especializado,167.292
+2021,7,6420,2º Jefe Especializado,158.330
+2021,7,6711,Especializado I,137.418
+2021,7,6712,Especializado II,101.976
+2021,7,6713,Especializado III,80.659
+2021,7,4410,Profesional Jefe,298.735
+2021,7,4420,Profesional 2º Jefe,286.786
+2021,7,4430,Supervisor,274.837
+2021,7,4511,Profesional I,242.573
+2021,7,4512,Profesional II,193.581
+2021,7,4513,Profesional III,173.267
+2021,7,4611,Profesional RR. LL. Cat. I,242.573
+2021,7,4612,Profesional RR. LL. Cat. II,193.581
+2021,7,4613,Profesional RR. LL. Cat. III,173.267
+2021,7,4614,Profesional RR. LL. Cat. IV,160.230
+2021,7,4615,Profesional RR. LL. Cat. V,149.368
+2021,7,4616,Profesional RR. LL. Cat. VI,119.494
+2021,7,5410,Jefe Técnico,193.581
+2021,7,5420,2º Jefe Técnico,182.229
+2021,7,5430,Supervisor,176.523
+2021,7,5711,Técnico I,176.523
+2021,7,5712,Técnico II,149.368
+2021,7,5713,Técnico III,129.544
+2021,7,5714,Técnico IV,101.976
+2021,7,1141,Jefe Principal de Sistemas,307.697
+2021,7,1151,Jefe de Sistemas,242.573
+2021,7,1152,Analista de Sistemas de 1ª,242.573
+2021,7,1154,Analista Operativo de 1ª,242.573
+2021,7,1142,Analista Procesamiento de 1ª,242.573
+2021,7,1157,Supervisor Turno de Producción,242.573
+2021,7,1156,Supervisor de Sistemas,242.573
+2021,7,1158,Supervisor de Soporte de Producción,242.573
+2021,7,1153,Analista de Sistemas de 2ª,242.573
+2021,7,1143,Analista Procesamiento de 2ª,242.573
+2021,7,1159,Analista Operativo de 2ª,242.573
+2021,7,1165,Analista de Sistemas de 3ª,193.581
+2021,7,1144,Analista Procesamiento de 3ª,193.581
+2021,7,1166,Analista Operativo de 3ª,193.581
+2021,7,1161,Programador de 1ra.,193.581
+2021,7,1162,Operador Mayor,193.581
+2021,7,1164,Supervisor de Diseño,193.581
+2021,7,1167,Analista Implementador de 1ra.,193.581
+2021,7,1163,Analista de Procedimiento de 1ra.,193.581
+2021,7,1168,Analista de Comunicaciones y Tecnológico de 1ra.,193.581
+2021,7,1185,Analista Implementador de 2ª,167.292
+2021,7,1177,Supervisor de Turno de Control,167.292
+2021,7,1176,Supervisor de Turno de Planificación,167.292
+2021,7,1171,Programador de 2ª,167.292
+2021,7,1172,Analista de Procedimiento de 2ª,167.292
+2021,7,1183,Analista de Comunicaciones y Tecnológico de 2ª,167.292
+2021,7,1179,Operador de 1ra.,167.292
+2021,7,1174,Programador de 3ª,167.292
+2021,7,1181,Operador de 2ª,167.292
+2021,7,1178,Asistente de 1ra.,167.292
+2021,7,1184,Analista de Comunicaciones y Tecnológico de 3ª,167.292
+2021,7,1175,Analista Implementador de 3ª,167.292
+2021,7,1173,Analista de Procedimientos de 3ª,167.292
+2021,7,1182,Asistente de Comunicaciones y Tecnológico de 1ra.,167.292
+2021,7,1186,Asistente de Comunicaciones y Tecnológico de 2ª,149.368
+2021,7,1191,Operador de 3ª,149.368
+2021,7,1188,Asistente de 2ª,149.368
+2021,7,1192,Asistente de 3ª,149.368
+2021,7,1187,Asistente de Comunicaciones y Tecnológico de 3ª,149.368
+2021,7,1189,Registrador de 1ra.,149.368
+2021,7,1194,Registrador de 2ª,129.544
+2021,7,1195,Registrador de 3ª,129.544
+2021,7,1193,Controlador de 1ra.,129.544
+2021,7,1196,Analista de Procedimientos sin Categoría,101.976
+2021,7,1713,Controlador de 2ª,101.976
+2021,7,1197,J Secc Anal Implem. S/cat,101.976
+2021,7,1198,J Secc Programador Sc,101.976
+2021,7,1723,Asistente sin Categoría,101.976
+2021,7,1724,Operador sin Categoría,101.976
+2021,7,1736,Aux. D Registrador SC,80.659
+2021,7,1738,Controlador sin Categoría,69.797
+2022,9,1110,Gerente General,845.205
+2022,9,1120,Subgerente General,743.596
+2022,9,1130,Gerente Departamental,682.399
+2022,9,1210,Gerente Regional,682.399
+2022,9,1140,Subgerente Departamental,594.646
+2022,9,1220,Gerente Zonal,594.646
+2022,9,1224,Auditor Regional,594.646
+2022,9,1311,Gerente Especial,594.646
+2022,9,1150,Jefe Principal de Departamento,468.789
+2022,9,1225,Auditor Regional,468.789
+2022,9,1312,Gerente de 1ª,468.789
+2022,9,1160,Jefe de Departamento,374.107
+2022,9,1313,Gerente de 2ª,374.107
+2022,9,1320,Subgerente,374.107
+2022,9,1331,Jefe de Contaduría Especial,374.107
+2022,9,1170,2º Jefe de Departamento,323.302
+2022,9,1314,Gerente de 3ª,323.302
+2022,9,1332,Jefe de Contaduría de 1ª,323.302
+2022,9,1333,Jefe de Contaduría de 2ª,323.302
+2022,9,1340,Subjefe de Contaduría,323.302
+2022,9,1351,Tesorero Especial,323.302
+2022,9,1180,Jefe de División,288.663
+2022,9,1352,Tesorero de 1ª,288.663
+2022,9,1353,Tesorero de 2ª,288.663
+2022,9,1354,Tesorero de 1ª,288.663
+2022,9,1355,Tesorero de 2ª,288.663
+2022,9,1360,Subtesorero,288.663
+2022,9,1371,Jefe de Area I,288.663
+2022,9,1190,2º Jefe de División,250.352
+2022,9,1372,Jefe de Area II,250.352
+2022,9,1711,Jefe de Sección A,250.352
+2022,9,1712,Jefe de Sección B,197.076
+2022,9,1721,Ayudante de Firma A,250.352
+2022,9,1722,Ayudante de Firma B,197.076
+2022,9,1731,Auxiliar A,250.352
+2022,9,1732,Auxiliar B,197.076
+2022,9,1733,Auxiliar C,182.643
+2022,9,1735,Auxiliar D,155.878
+2022,9,1737,Auxiliar E,134.886
+2022,9,3411,Jefe de Servicios I,323.302
+2022,9,3412,Jefe de Servicios II,288.663
+2022,9,3413,Jefe de Servicios III,242.477
+2022,9,3711,Ordenanza A,225.157
+2022,9,3712,Ordenanza B,203.969
+2022,9,3713,Ordenanza C,182.643
+2022,9,3715,Ordenanza D,155.878
+2022,9,3717,Ordenanza E,134.886
+2022,9,2411,Jefe de Maestranza I,323.302
+2022,9,2412,Jefe de Maestranza II,311.756
+2022,9,2413,Jefe de Maestranza III,277.116
+2022,9,2711,Operario A,241.322
+2022,9,2712,Operario B,203.969
+2022,9,2713,Operario C,182.643
+2022,9,2715,Operario D,155.878
+2022,9,2717,Operario E,134.886
+2022,9,6410,Jefe Especializado,323.302
+2022,9,6420,2º Jefe Especializado,305.983
+2022,9,6711,Especializado I,265.570
+2022,9,6712,Especializado II,197.076
+2022,9,6713,Especializado III,155.878
+2022,9,4410,Profesional Jefe,577.326
+2022,9,4420,Profesional 2º Jefe,554.233
+2022,9,4430,Supervisor,531.140
+2022,9,4511,Profesional I,468.789
+2022,9,4512,Profesional II,374.107
+2022,9,4513,Profesional III,334.849
+2022,9,4611,Profesional RR. LL. Cat. I,468.789
+2022,9,4612,Profesional RR. LL. Cat. II,374.107
+2022,9,4613,Profesional RR. LL. Cat. III,334.849
+2022,9,4614,Profesional RR. LL. Cat. IV,309.654
+2022,9,4615,Profesional RR. LL. Cat. V,288.663
+2022,9,4616,Profesional RR. LL. Cat. VI,230.930
+2022,9,5410,Jefe Técnico,374.107
+2022,9,5420,2º Jefe Técnico,352.169
+2022,9,5430,Supervisor,341.142
+2022,9,5711,Técnico I,341.142
+2022,9,5712,Técnico II,288.663
+2022,9,5713,Técnico III,250.352
+2022,9,5714,Técnico IV,197.076
+2022,9,1141,Jefe Principal de Sistemas,594.646
+2022,9,1151,Jefe de Sistemas,468.789
+2022,9,1152,Analista de Sistemas de 1ª,468.789
+2022,9,1154,Analista Operativo de 1ª,468.789
+2022,9,1142,Analista Procesamiento de 1ª,468.789
+2022,9,1157,Supervisor Turno de Producción,468.789
+2022,9,1156,Supervisor de Sistemas,468.789
+2022,9,1158,Supervisor de Soporte de Producción,468.789
+2022,9,1153,Analista de Sistemas de 2ª,468.789
+2022,9,1143,Analista Procesamiento de 2ª,468.789
+2022,9,1159,Analista Operativo de 2ª,468.789
+2022,9,1165,Analista de Sistemas de 3ª,374.107
+2022,9,1144,Analista Procesamiento de 3ª,374.107
+2022,9,1166,Analista Operativo de 3ª,374.107
+2022,9,1161,Programador de 1ra.,374.107
+2022,9,1162,Operador Mayor,374.107
+2022,9,1164,Supervisor de Diseño,374.107
+2022,9,1167,Analista Implementador de 1ra.,374.107
+2022,9,1163,Analista de Procedimiento de 1ra.,374.107
+2022,9,1168,Analista de Comunicaciones y Tecnológico de 1ra.,374.107
+2022,9,1185,Analista Implementador de 2ª,323.302
+2022,9,1177,Supervisor de Turno de Control,323.302
+2022,9,1176,Supervisor de Turno de Planificación,323.302
+2022,9,1171,Programador de 2ª,323.302
+2022,9,1172,Analista de Procedimiento de 2ª,323.302
+2022,9,1183,Analista de Comunicaciones y Tecnológico de 2ª,323.302
+2022,9,1179,Operador de 1ra.,323.302
+2022,9,1174,Programador de 3ª,323.302
+2022,9,1181,Operador de 2ª,323.302
+2022,9,1178,Asistente de 1ra.,323.302
+2022,9,1184,Analista de Comunicaciones y Tecnológico de 3ª,323.302
+2022,9,1175,Analista Implementador de 3ª,323.302
+2022,9,1173,Analista de Procedimientos de 3ª,323.302
+2022,9,1182,Asistente de Comunicaciones y Tecnológico de 1ra.,323.302
+2022,9,1186,Asistente de Comunicaciones y Tecnológico de 2ª,288.663
+2022,9,1191,Operador de 3ª,288.663
+2022,9,1188,Asistente de 2ª,288.663
+2022,9,1192,Asistente de 3ª,288.663
+2022,9,1187,Asistente de Comunicaciones y Tecnológico de 3ª,288.663
+2022,9,1189,Registrador de 1ra.,288.663
+2022,9,1194,Registrador de 2ª,250.352
+2022,9,1195,Registrador de 3ª,250.352
+2022,9,1193,Controlador de 1ra.,250.352
+2022,9,1196,Analista de Procedimientos sin Categoría,197.076
+2022,9,1713,Controlador de 2ª,197.076
+2022,9,1197,J Secc Anal Implem. S/cat,197.076
+2022,9,1198,J Secc Programador Sc,197.076
+2022,9,1723,Asistente sin Categoría,197.076
+2022,9,1724,Operador sin Categoría,197.076
+2022,9,1736,Aux. D Registrador SC,155.878
+2022,9,1738,Controlador sin Categoría,134.886
+2023,7,1110,Gerente General,1.655.434
+2023,7,1120,Subgerente General,1.456.420
+2023,7,1130,Gerente Departamental,1.336.560
+2023,7,1210,Gerente Regional,1.336.560
+2023,7,1140,Subgerente Departamental,1.164.684
+2023,7,1220,Gerente Zonal,1.164.684
+2023,7,1224,Auditor Regional,1.164.684
+2023,7,1311,Gerente Especial,1.164.684
+2023,7,1150,Jefe Principal de Departamento,918.178
+2023,7,1225,Auditor Regional,918.178
+2023,7,1312,Gerente de 1ª,918.178
+2023,7,1160,Jefe de Departamento,732.733
+2023,7,1313,Gerente de 2ª,732.733
+2023,7,1320,Subgerente,732.733
+2023,7,1331,Jefe de Contaduría Especial,732.733
+2023,7,1170,2º Jefe de Departamento,633.226
+2023,7,1314,Gerente de 3ª,633.226
+2023,7,1332,Jefe de Contaduría de 1ª,633.226
+2023,7,1333,Jefe de Contaduría de 2ª,633.226
+2023,7,1340,Subjefe de Contaduría,633.226
+2023,7,1351,Tesorero Especial,633.226
+2023,7,1180,Jefe de División,565.381
+2023,7,1352,Tesorero de 1ª,565.381
+2023,7,1353,Tesorero de 2ª,565.381
+2023,7,1354,Tesorero de 1ª,565.381
+2023,7,1355,Tesorero de 2ª,565.381
+2023,7,1360,Subtesorero,565.381
+2023,7,1371,Jefe de Area I,565.381
+2023,7,1190,2º Jefe de División,490.343
+2023,7,1372,Jefe de Area II,490.343
+2023,7,1711,Jefe de Sección A,490.343
+2023,7,1712,Jefe de Sección B,385.997
+2023,7,1721,Ayudante de Firma A,490.343
+2023,7,1722,Ayudante de Firma B,385.997
+2023,7,1731,Auxiliar A,490.343
+2023,7,1732,Auxiliar B,385.997
+2023,7,1733,Auxiliar C,357.728
+2023,7,1735,Auxiliar D,305.306
+2023,7,1737,Auxiliar E,264.191
+2023,7,3411,Jefe de Servicios I,633.226
+2023,7,3412,Jefe de Servicios II,565.381
+2023,7,3413,Jefe de Servicios III,474.920
+2023,7,3711,Ordenanza A,440.997
+2023,7,3712,Ordenanza B,399.498
+2023,7,3713,Ordenanza C,357.728
+2023,7,3715,Ordenanza D,305.306
+2023,7,3717,Ordenanza E,264.191
+2023,7,2411,Jefe de Maestranza I,633.226
+2023,7,2412,Jefe de Maestranza II,610.611
+2023,7,2413,Jefe de Maestranza III,542.765
+2023,7,2711,Operario A,472.658
+2023,7,2712,Operario B,399.498
+2023,7,2713,Operario C,357.728
+2023,7,2715,Operario D,305.306
+2023,7,2717,Operario E,264.191
+2023,7,6410,Jefe Especializado,633.226
+2023,7,6420,2º Jefe Especializado,599.303
+2023,7,6711,Especializado I,520.150
+2023,7,6712,Especializado II,385.997
+2023,7,6713,Especializado III,305.306
+2023,7,4410,Profesional Jefe,1.130.761
+2023,7,4420,Profesional 2º Jefe,1.085.531
+2023,7,4430,Supervisor,1.040.300
+2023,7,4511,Profesional I,918.178
+2023,7,4512,Profesional II,732.733
+2023,7,4513,Profesional III,655.842
+2023,7,4611,Profesional RR. LL. Cat. I,918.178
+2023,7,4612,Profesional RR. LL. Cat. II,732.733
+2023,7,4613,Profesional RR. LL. Cat. III,655.842
+2023,7,4614,Profesional RR. LL. Cat. IV,606.495
+2023,7,4615,Profesional RR. LL. Cat. V,565.381
+2023,7,4616,Profesional RR. LL. Cat. VI,452.304
+2023,7,5410,Jefe Técnico,732.733
+2023,7,5420,2º Jefe Técnico,689.764
+2023,7,5430,Supervisor,668.167
+2023,7,5711,Técnico I,668.167
+2023,7,5712,Técnico II,565.381
+2023,7,5713,Técnico III,490.343
+2023,7,5714,Técnico IV,385.997
+2023,7,1141,Jefe Principal de Sistemas,1.164.684
+2023,7,1151,Jefe de Sistemas,918.178
+2023,7,1152,Analista de Sistemas de 1ª,918.178
+2023,7,1154,Analista Operativo de 1ª,918.178
+2023,7,1142,Analista Procesamiento de 1ª,918.178
+2023,7,1157,Supervisor Turno de Producción,918.178
+2023,7,1156,Supervisor de Sistemas,918.178
+2023,7,1158,Supervisor de Soporte de Producción,918.178
+2023,7,1153,Analista de Sistemas de 2ª,918.178
+2023,7,1143,Analista Procesamiento de 2ª,918.178
+2023,7,1159,Analista Operativo de 2ª,918.178
+2023,7,1165,Analista de Sistemas de 3ª,732.733
+2023,7,1144,Analista Procesamiento de 3ª,732.733
+2023,7,1166,Analista Operativo de 3ª,732.733
+2023,7,1161,Programador de 1ra.,732.733
+2023,7,1162,Operador Mayor,732.733
+2023,7,1164,Supervisor de Diseño,732.733
+2023,7,1167,Analista Implementador de 1ra.,732.733
+2023,7,1163,Analista de Procedimiento de 1ra.,732.733
+2023,7,1168,Analista de Comunicaciones y Tecnológico de 1ra.,732.733
+2023,7,1185,Analista Implementador de 2ª,633.226
+2023,7,1177,Supervisor de Turno de Control,633.226
+2023,7,1176,Supervisor de Turno de Planificación,633.226
+2023,7,1171,Programador de 2ª,633.226
+2023,7,1172,Analista de Procedimiento de 2ª,633.226
+2023,7,1183,Analista de Comunicaciones y Tecnológico de 2ª,633.226
+2023,7,1179,Operador de 1ra.,633.226
+2023,7,1174,Programador de 3ª,633.226
+2023,7,1181,Operador de 2ª,633.226
+2023,7,1178,Asistente de 1ra.,633.226
+2023,7,1184,Analista de Comunicaciones y Tecnológico de 3ª,633.226
+2023,7,1175,Analista Implementador de 3ª,633.226
+2023,7,1173,Analista de Procedimientos de 3ª,633.226
+2023,7,1182,Asistente de Comunicaciones y Tecnológico de 1ra.,633.226
+2023,7,1186,Asistente de Comunicaciones y Tecnológico de 2ª,565.381
+2023,7,1191,Operador de 3ª,565.381
+2023,7,1188,Asistente de 2ª,565.381
+2023,7,1192,Asistente de 3ª,565.381
+2023,7,1187,Asistente de Comunicaciones y Tecnológico de 3ª,565.381
+2023,7,1189,Registrador de 1ra.,565.381
+2023,7,1194,Registrador de 2ª,490.343
+2023,7,1195,Registrador de 3ª,490.343
+2023,7,1193,Controlador de 1ra.,490.343
+2023,7,1196,Analista de Procedimientos sin Categoría,385.997
+2023,7,1713,Controlador de 2ª,385.997
+2023,7,1197,J Secc Anal Implem. S/cat,385.997
+2023,7,1198,J Secc Programador Sc,385.997
+2023,7,1723,Asistente sin Categoría,385.997
+2023,7,1724,Operador sin Categoría,385.997
+2023,7,1736,Aux. D Registrador SC,305.306
+2023,7,1738,Controlador sin Categoría,264.191
+
